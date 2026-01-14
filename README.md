@@ -1,12 +1,12 @@
 # Authentication Automation Test (Sign Up, Login & Logout)
 
-## 🔍 What This Project Covers
+##  What This Project Covers
 - User Sign Up
 - User Login
 - User Logout
 - Account Deletion
 
-## 💡 Key Automation Concept
+##  Key Automation Concept
 To avoid the common issue **"Email already exists"**, this project uses a **random email generator** on every test run.
 
 This helps to:
@@ -14,7 +14,7 @@ This helps to:
 - Avoid duplicated test data
 - Simulate real user behavior
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Java
 - Selenium WebDriver
 - TestNG
